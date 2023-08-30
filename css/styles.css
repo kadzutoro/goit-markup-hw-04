@@ -146,6 +146,11 @@ p {
 .main-content {
   background: #2e2f42;
   padding: 188px 0 188px;
+  background-image: linear-gradient(rgba(46, 47, 66, 0.70),rgba(46, 47, 66, 0.70)), url(/images/background.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
 }
 
 .button-one {
